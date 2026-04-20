@@ -510,7 +510,7 @@ function OAuthStatusMessage({
                   label: (
                     <Text>
                       Anthropic Console account ·{' '}
-                      <Text dimColor>API usage billing</Text>
+                      <Text dimColor> 999</Text>
                       {'\n'}
                     </Text>
                   ),
